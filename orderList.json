@@ -1,0 +1,199 @@
+
+{
+    "users":[
+                {
+                    "userId":"1001",
+                    "orderList":[
+
+                    {
+                        "id": 1,
+                        "product": "百香果(冷饮)1扎",
+                        "shop": "院落创意菜",
+                        "picture": "../img/task1.png",
+                        "price": 19.9,
+                        "ifCommented": true,
+                        "orderNumber":"20181114000000"
+                    },
+                    {
+                        "id": 2,
+                        "product": "肥牛石锅拌饭",
+                        "shop": "正一味",
+                        "picture": "../img/task3.png",
+                        "price": 29.9,
+                        "ifCommented": false,
+                        "orderNumber":"20181114000001"
+                    },
+                    {
+                        "id": 3,
+                        "product": "冻酸奶(小杯)",
+                        "shop": "Salud冻酸奶",
+                        "picture": "../img/task4.png",
+                        "price": 39.9,
+                        "ifCommented": false,
+                        "orderNumber":"20181114000002"
+                    },
+                    {
+                        "id": 4,
+                        "product": "吉芝烧鱼",
+                        "shop": "吉野家",
+                        "picture": "../img/task5.png",
+                        "price": 49.9,
+                        "ifCommented": true,
+                        "orderNumber":"20181114000003"
+                    },
+                    {
+                        "id": 5,
+                        "product": "吉芝烧鱼",
+                        "shop": "吉野家",
+                        "picture": "../img/task5.png",
+                        "price": 49.9,
+                        "ifCommented": true,
+                        "orderNumber":"20181114000004"
+                    },
+                    {
+                        "id": 6,
+                        "product": "红烧鱼",
+                        "shop": "之家",
+                        "picture": "../img/task6.png",
+                        "price": 79.9,
+                        "ifCommented": false,
+                        "orderNumber":"20181114000005"
+                    },
+                    {
+                        "id": 7,
+                        "product": "兰州拉面",
+                        "shop": "西北拉面馆",
+                        "picture": "../img/task7.png",
+                        "price": 15.9,
+                        "ifCommented": false,
+                        "orderNumber":"20181114000006"
+                    },
+                    {
+                        "id": 8,
+                        "product": "芒果汁",
+                        "shop": "芒果哥",
+                        "picture": "../img/task8.png",
+                        "price": 9.9,
+                        "ifCommented": true,
+                        "orderNumber":"20181114000007"
+                    },
+                    {
+                        "id": 9,
+                        "product": "福鼎肉片",
+                        "shop": "客家人家",
+                        "picture": "../img/task9.png",
+                        "price": 14.9,
+                        "ifCommented": false,
+                        "orderNumber":"20181114000008"
+                    },
+                ],
+                "userInfo":{
+                    "userName":"wangbin",
+                    "pwd":"123",
+                    "address":"Xiamen Fujian",
+                    "tel":18810003333,
+                    "postCode":"360007",
+                    "isVIP":"false",
+                    "sex":"male"
+                }  
+            },
+            {
+                "userId":"1002",
+                "orderList":[
+
+                    {
+                        "id": 1,
+                        "product": "百香果(冷饮)1扎",
+                        "shop": "院落创意菜",
+                        "picture": "../img/task1.png",
+                        "price": 19.9,
+                        "ifCommented": true,
+                        "orderNumber":"20181114000000"
+                    },
+                    {
+                        "id": 2,
+                        "product": "肥牛石锅拌饭",
+                        "shop": "正一味",
+                        "picture": "../img/task3.png",
+                        "price": 29.9,
+                        "ifCommented": false,
+                        "orderNumber":"20181114000001"
+                    },
+                    {
+                        "id": 3,
+                        "product": "冻酸奶(小杯)",
+                        "shop": "Salud冻酸奶",
+                        "picture": "../img/task4.png",
+                        "price": 39.9,
+                        "ifCommented": false,
+                        "orderNumber":"20181114000002"
+                    },
+                    {
+                        "id": 4,
+                        "product": "吉芝烧鱼",
+                        "shop": "吉野家",
+                        "picture": "../img/task5.png",
+                        "price": 49.9,
+                        "ifCommented": true,
+                        "orderNumber":"20181114000003"
+                    },
+                    {
+                        "id": 5,
+                        "product": "吉芝烧鱼",
+                        "shop": "吉野家",
+                        "picture": "../img/task5.png",
+                        "price": 34.9,
+                        "ifCommented": true,
+                        "orderNumber":"20181114000004"
+                    },
+                    {
+                        "id": 6,
+                        "product": "红烧鱼",
+                        "shop": "之家",
+                        "picture": "../img/task6.png",
+                        "price": 79.9,
+                        "ifCommented": false,
+                        "orderNumber":"20181114000005"
+                    },
+                    {
+                        "id": 7,
+                        "product": "兰州拉面",
+                        "shop": "西北拉面馆",
+                        "picture": "../img/task7.png",
+                        "price": 15.9,
+                        "ifCommented": false,
+                        "orderNumber":"20181114000006"
+                    },
+                    {
+                        "id": 8,
+                        "product": "芒果汁",
+                        "shop": "芒果哥",
+                        "picture": "../img/task8.png",
+                        "price": 9.9,
+                        "ifCommented": true,
+                        "orderNumber":"20181114000007"
+                    },
+                    {
+                        "id": 9,
+                        "product": "福鼎肉片",
+                        "shop": "客家人家",
+                        "picture": "../img/task9.png",
+                        "price": 14.9,
+                        "ifCommented": false,
+                        "orderNumber":"20181114000008"
+                    },
+                ],
+                "userInfo":{
+                    "userName":"wangbin",
+                    "pwd":"123",
+                    "address":"Xiamen Fujian",
+                    "tel":18810003333,
+                    "postCode":"360007",
+                    "isVIP":"false",
+                    "sex":"male"
+                }  
+            }  
+
+    ]
+}
+

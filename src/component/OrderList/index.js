@@ -9,17 +9,16 @@ class OrderList extends Component{
         }
     }
     componentDidMount(){
-        fetch('/mock/orders.json')
-            .then(res=>{
-                if(res.ok){
-                    res.json().then(data=>{
-                        this.setState({
-                            data:data
-                        })
-                    })
-                }
+        fetch('https://wd7948970600stlows.wilddogio.com/users.json')
+        .then(res=>{
+            res.json().then(data=>{
+                console.log(data);
+            //  这里要用根据不同用户而渲染不同的订单页面
+            this.setState({
+                data:data[0].orderList
             })
-            .catch(err=>console.log(err))
+            })
+        })
     }
     handleSubmit = (id,comment,stars)=>{
         let newData = this.state.data.map(item=>{
