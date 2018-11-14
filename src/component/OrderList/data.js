@@ -1,0 +1,34 @@
+export const dataArray = [
+    {
+        id:1,
+        shop:'白鹭洲家常菜',
+        picture:'../../public/pizza.jpg',
+        product:'COLA',
+        price:20,
+        ifCommented:true,
+    },
+    {
+        id:2,
+        shop:'XMU家常菜',
+        picture:'../../public/pizza.jpg',
+        product:'PEER',
+        price:8,
+        ifCommented:false,
+    },
+    {
+        id:3,
+        shop:'BJTU家常菜',
+        picture:'../../public/pizza.jpg',
+        product:'APPLE',
+        price:5,
+        ifCommented:true,
+    },
+    {
+        id:4,
+        shop:'BH家常菜',
+        picture:'../../public/pizza.jpg',
+        product:'COOK',
+        price:85,
+        ifCommented:false,
+    }
+]
